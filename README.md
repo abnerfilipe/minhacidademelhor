@@ -5,6 +5,7 @@ Projeto desenvolvido durante a materia de  CONSTRUÇÃO DE SOFTWARE COMERCIAL do
 
 ### Diagramas do Projeto
 
-​	
+- ​	Diagrama de Classe 
+
 
 ![diagrama_1](./docs/diagrama_1.png)
