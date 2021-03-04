@@ -1,4 +1,4 @@
-# minhacidademelhor
+# 
 Projeto desenvolvido durante a materia de  CONSTRUÇÃO DE SOFTWARE COMERCIAL do curso de Engenharia de Software da UNIALFA, usando o JAVA MAVEN no backend.
 
 
@@ -7,7 +7,7 @@ Projeto desenvolvido durante a materia de  CONSTRUÇÃO DE SOFTWARE COMERCIAL do
 
 ​		
 
-![image-20210304194727050](/Users/filipeabner/Library/Application Support/typora-user-images/image-20210304194727050.png)
+![Screen Shot 2021-03-04 at 19.47.21](/Users/filipeabner/Screenshots/Screen Shot 2021-03-04 at 19.47.21.png)
 
 
 
